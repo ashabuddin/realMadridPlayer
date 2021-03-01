@@ -1,0 +1,25 @@
+.RealMadridPlayer{
+    margin: 20px;
+    border: 1px solid gray;
+    padding: 20px;
+    column-count: 2;
+    background-color: grey;
+    border-radius: 20px;
+    
+}
+
+.player-container{
+    color: burlywood;
+    
+}
+.image-container{
+    border-radius: 10px;
+}
+.main-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+}

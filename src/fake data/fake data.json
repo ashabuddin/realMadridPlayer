@@ -1,0 +1,77 @@
+
+[{
+    "name": "Ramos",
+    "salary": 3568,
+    "image": "https://www.realmadrid.com/img/horizontal_940px/_he16312_20191002011627.jpg",
+    "club": "Real Madrid"
+  }, {
+    "name": "Curtois",
+    "salary": 3559,
+    "image": "https://media.gettyimages.com/photos/thibaut-courtois-of-real-madrid-cf-celebrates-after-his-team-mate-picture-id1209766148?s=612x612",
+    "club": "Real Madrid"
+  }, {
+    "name": "Nacho",
+    "salary": 5602,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcQ_sCRWYNQXx9gsfD-W4hjvxB5jb7FMgqpg&usqp=CAU",
+    "club": "Real Madrid"
+  }, {
+    "name": "Varan",
+    "salary": 3568,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEMwsEn6VGpQHDFSc4FOHI7uR2g6Liw1dDeA&usqp=CAU",
+    "club": "Real Madrid"
+  }, {
+    "name": "Benzama",
+    "salary": 3569,
+    "image": "https://skyrockliving.com/wp-content/uploads/2018/02/muslim-players-in-real-madrid.jpg",
+    "club": "Real Madrid"
+  }, {
+    "name": "Madric",
+    "salary": 3571,
+    "image": "https://static.toiimg.com/thumb/msid-81102602,width-1070,height-580,imgsize-165617,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+    "club": "Real Madrid"
+  }, {
+    "name": "Krose",
+    "salary": 6043,
+    "image": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/01/09/Pictures/spanish-super-madrid-semi-final-valencia-real_5b00c80c-32e3-11ea-bc15-9abc7b7a1843.jpg",
+    "club": "Real Madrid"
+  }, {
+    "name": "Casimaro",
+    "salary": 3584,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMn5XG-Ur8RR2Izu3QxuCL4bBxQUlVF9JOCQ&usqp=CAU",
+    "club": "Real Madrid"
+  }, {
+    "name": "Hazerd",
+    "salary": 2018,
+    "image": "https://cdn.vox-cdn.com/thumbor/S816bqFun4hqxHijPIDlrqb1AL4=/0x0:3000x1997/920x613/filters:focal(1410x809:1890x1289):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/65006822/1161276421.jpg.0.jpg",
+    "club": "Real Madrid"
+  }, {
+    "name": "Rodrigo",
+    "salary": 5020,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfoIdHgHR5f1Cnae9I9fBBVf74j8chuwZn-w&usqp=CAU",
+    "club": "Real Madrid"
+  }, {
+    "name": "Marsalo",
+    "salary": 5787,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT91A35CmIefjLO1YydIkgiBLW1GaZukRVmow&usqp=CAU",
+    "club": "Real Madrid"
+  }, {
+    "name": "Isco",
+    "salary": 3542,
+    "image": "https://icdn.football-espana.net/wp-content/uploads/2020/11/2b34dac481e247c97f0aa12902505c90.jpg",
+    "club": "Real Madrid"
+  }, {
+    "name": "Valverde",
+    "salary": 3173,
+    "image": "https://pbs.twimg.com/media/EI8-6OqWwAExJSq.jpg",
+    "club": "Real Madrid"
+  }, {
+    "name": "Carvahal",
+    "salary": 5018,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTakEfyz9kTFh5ano5jcq3u_mjZhRjL16K0g&usqp=CAU",
+    "club": "Real Madrid"
+  }, {
+    "name": "Venios",
+    "salary": 3575,
+    "image": "https://images2.minutemediacdn.com/image/fetch/w_736,h_485,c_fill,g_auto,f_auto/https%3A%2F%2Fplayingfor90.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2018%2F08%2F1127189160-850x560.jpeg",
+    "club": "Real Madrid"
+  }]
